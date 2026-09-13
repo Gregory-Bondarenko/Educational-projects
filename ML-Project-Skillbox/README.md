@@ -4,7 +4,7 @@
 
 Выполнил: Бондаренко Григорий Александрович
 Группа: АД-ОБ-2023
-Дата: январь 2024 г. 
+Дата: январь 2024 г.
 
 ![image info](ч1.PNG)
 
@@ -14,7 +14,7 @@ Project.ipynb - чистка, обработка и анализ данных;
 Project_Learning.ipynb - обучение модели.
 ## Папка src:
 main.py - код запуска модели.
-## Папка data:
+## Папка data (имеется в оригинальном GitLab: https://gitlab.skillbox.ru/grigorii_bondarenko/ml-project-skillbox):
 data.csv - очищенные данные (после работы файла Project.ipynb);
 ga_sessions.csv - входные данные (первоначальные данные);
 ga_hits.csv - входные данные (первоначальные данные).
