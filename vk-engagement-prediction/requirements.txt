@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+requests
+python-dotenv
+openpyxl
+joblib
+textblob
+emoji
