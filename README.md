@@ -1,9 +1,4 @@
 # Educational-projects
-Учебные проекты
-1) ML-Project-Skillbox: Учебный проект по ML в рамках курса Skillbox. Оригинальный репозиторий: https://gitlab.skillbox.ru/grigorii_bondarenko/ml-project-skillbox
-
-
-# Educational-projects
 
 Учебные проекты и лабораторные работы за время моего обучения. Каждая папка — отдельный предмет или отдельный проект, самодостаточна: код/скрипты + отчёты + свой README с подробностями
 
