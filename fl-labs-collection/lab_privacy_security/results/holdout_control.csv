@@ -1,0 +1,5 @@
+,value
+baseline_final_acc,0.9216666666666666
+mia_e20,0.6927332744432564
+flip_mean_0.2,0.565
+flip_median_0.2,0.7733333333333333
